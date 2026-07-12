@@ -1,6 +1,6 @@
 ---
 title: Registration
-registration_link: https://www.wenjuan.com/s/bQzaYrS/
+registration_link: TBD
 ---
 
 **RISC-V Summit China 2024** will be held from August 19-25.
