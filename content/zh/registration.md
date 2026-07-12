@@ -1,6 +1,6 @@
 ---
 title: 观众报名
-registration_link: https://www.wenjuan.com/t/UZBZJvFH93/
+registration_link: TBD
 ---
 
 **2026 RISC-V 中国峰会（RVSC2026）** 将于 2026 年 10 月 18 日至 20 日举办。
