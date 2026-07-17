@@ -1,6 +1,5 @@
 ---
 title: Exhibition Space
-link_slug: exhibition
 summary_image:
   - url: "/img/rvsc2026-exhibition-6f.jpg"
     description: "Sixth Floor Plan"
