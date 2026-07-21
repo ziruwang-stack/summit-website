@@ -16,9 +16,9 @@ teams:
     id: program-committee
     members:
       - name: 陈炜
-        position: 联席主席
+        position: 联席主席 / 希姆计算
       - name: 张泽松
-        position: 联席主席
+        position: 联席主席 / 香港城市大学
       - name: 苏中
         position: 达摩院
       - name: 何宁

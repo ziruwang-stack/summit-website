@@ -16,16 +16,16 @@ teams:
     id: program-committee
     members:
       - name: David Chen
-        position: Co-chair
+        position: Co-chair / Stream Computing
       - name: Ray C.C. Cheung
-        position: Co-chair
+        position: Co-chair / City University of Hong Kong
       - name: Zhong Su
         position: DAMO Academy
       - name: Ning He
         position: ESWIN
-      - name: Samul Li
+      - name: Samuel Li
         position: RISCStar
-      - name: Liusong Guo
+      - name: Songliu Guo
         position: Institute of Software, Chinese Academy of Sciences
       - name: Dan Tang
         position: Beijing Institute of Open Source Chip
@@ -58,7 +58,7 @@ teams:
       - name: Florian Woh
         position: OpenHW
       - name: Fujie Fan
-        position: Xim Computing
+        position: Stream Computing
       - name: Bing Yu
         position: Andes
       - name: Qiang Liu
