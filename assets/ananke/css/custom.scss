@@ -46,7 +46,7 @@ body {
     height: 100vh;
     top: 0;
     left: 0;
-    background-image: url(/img/background.webp);
+    background-image: radial-gradient(ellipse at 50% 42%, #182a5c 0%, #0b173b 52%, #020615 100%);
     background-size: cover;
     background-position: center top;
     background-attachment: scroll;
