@@ -22,7 +22,7 @@ teams:
       - name: 苏中
         position: 达摩院
       - name: 何宁
-        position: 奕思伟
+        position: 北京奕斯伟计算技术股份有限公司
       - name: 李向明
         position: RISCStar
       - name: 郭松柳
@@ -30,7 +30,7 @@ teams:
       - name: 唐丹
         position: 开芯院
       - name: Charlie Su
-        position: Andes
+        position: 晶心科技股份有限公司
       - name: 徐涛
         position: 赛昉
       - name: 杨勇
@@ -60,7 +60,7 @@ teams:
       - name: 范福杰
         position: 希姆计算
       - name: Bing Yu
-        position: Andes
+        position: 晶心科技股份有限公司
       - name: 刘强
         position: 天津大学
       - name: 张薇
