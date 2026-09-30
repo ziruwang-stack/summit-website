@@ -48,6 +48,24 @@
       {{ end }}
     </section>
 
+    {{ with .Params.exhibition_plan_images }}
+    <section class="cfp-section exhibition-plan-section">
+      <header class="cfp-section-header">
+        <h2>{{ $.Params.exhibition_plan_title }}</h2>
+      </header>
+      <div class="exhibition-plan-grid">
+        {{ range . }}
+        <figure class="exhibition-plan-narrow">
+          <button class="image-preview-trigger" type="button" aria-label="{{ .description }}">
+            <img src="{{ (printf "%s?v=%s" .url (readFile (printf "static%s" .url) | sha1)) }}" alt="{{ .description }}" loading="lazy" />
+          </button>
+          <figcaption>{{ .description }}</figcaption>
+        </figure>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
     {{ with .Params.hotels }}
     <section class="cfp-section hotel-section">
       <header class="cfp-section-header">
